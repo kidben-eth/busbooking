@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+  .section
+      {
+
+       position:center;
+       width:auto; 
+       height: auto;
+       display:flex;
+      
+       align-items:center;
+       justify-content: center;
+       overflow: hidden;
+       /* border-style:solid; */
+       /* border-color:white;*/
+       margin: 50px 0px 10px 10px ;
+
+      }
+
+     
